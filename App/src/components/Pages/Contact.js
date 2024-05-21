@@ -9,7 +9,7 @@ export default function Contact() {
         </p>
         <a className='me-4' href="mailto:vineyshaolivo@gmail.com"><Button className='btn-primary'  >Email</Button>{''}</a>
         <a className='me-4' href="https://github.com/Vineysha"><Button className='btn-primary' >Github</Button>{''}</a>
-        <a className='me-4' href="www.linkedin.com/in/vineysha-olivo-velázquez-280336199"><Button className='btn-primary' >Linkedin</Button>{''}</a>
+        <a className='me-4' href="https://www.linkedin.com/in/vineysha-olivo-velázquez-280336199"><Button className='btn-primary' >Linkedin</Button>{''}</a>
     </div>
     );
 }
