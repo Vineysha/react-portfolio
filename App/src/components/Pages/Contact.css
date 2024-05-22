@@ -1,0 +1,23 @@
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+  }
+  
+  .contact {
+    text-align: center;
+    margin-bottom: 200px;
+  }
+  
+  .buttons-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .buttons-container a {
+    margin-right: 10px; /* Adjust spacing between buttons if needed */
+  }
+  

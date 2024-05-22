@@ -1,0 +1,37 @@
+/* Add your portfolio styles here */
+.portfolio-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.portfolio-item {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio-item img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.portfolio-item h3 {
+    margin-top: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.portfolio-item p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #555;
+}
+/* Add your portfolio styles here */
+.portfolio-heading {
+    text-align: center;
+}
+
